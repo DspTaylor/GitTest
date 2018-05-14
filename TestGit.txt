@@ -1,3 +1,8 @@
 this is a test
 now we are in branch 2
+This line keep
+and this line keep
+throw this away
+keep this
+
 
